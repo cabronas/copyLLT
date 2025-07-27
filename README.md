@@ -96,7 +96,7 @@ LLT works best when it's running in the background, so go to Settings and enable
 
 If you installed LLT on a clean Windows install, make sure to have necessary drivers installed. If drivers are missing, some options might not be available. Especially make sure that these two are installed on your system:
 1. Lenovo Energy Management
-2. Lenovo Vantage Gaming Feature Driver
+2. Lenovo Vantage Gaming Feature Drivera
 
 #### Problems with .NET?
 
